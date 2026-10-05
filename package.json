@@ -1,0 +1,8 @@
+{
+  "name": "removebg-ai-transparent-png",
+  "version": "1.0.0",
+  "description": "Remove backgrounds from photos, product images, and portraits in seconds with smart AI edge detection.",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
