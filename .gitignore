@@ -1,1 +1,11 @@
+.env
+.env*.local
+.env.production
 .vercel
+node_modules/
+*.log
+*.pem
+*.key
+credentials.json
+.DS_Store
+Thumbs.db

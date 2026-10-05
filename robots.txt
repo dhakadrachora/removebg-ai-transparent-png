@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://removebg-ai-transparent-png.vercel.app/sitemap.xml
